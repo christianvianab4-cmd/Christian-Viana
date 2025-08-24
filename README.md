@@ -1,11 +1,13 @@
 # 👋 Olá, eu sou o Christian Viana  
 
 ## 🚀 Sobre mim  
-- 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas** 
+
+- 🎓  **Apaixonado** por tecnologia e em constante evolução
 
 - 🧠 Aprendendo **JavaScript, HTML, CSS e Git/GitHub**  
 
-- 🎯 Objetivo: me tornar um desenvolvedor web full stack  
+- 🎯 Objetivo: me tornar um **desenvolvedor web full stack**  
 
 - 🌎 Local: Brasília-DF 🇧🇷
 
